@@ -1,0 +1,45 @@
+﻿
+.row-done-effect {
+    text-decoration: line-through;
+    opacity: 0.4;
+    background-color: #e9ecef;
+    color: #6c757d;
+    transition: all 0.3s linear;
+}
+
+
+.my-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh; 
+}
+
+.my-box {
+    width: 400px;
+    padding: 30px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: white;
+}
+
+
+.my-row {
+    margin-bottom: 15px;
+}
+
+.list-unstyled li {
+    list-style: none;
+    transition: 0.3s;
+}
+
+.list-unstyled li:hover {
+    background-color: #e9ecef;
+}
+
+
+.my-buttons {
+    display: flex;
+    gap: 10px;
+}
+
