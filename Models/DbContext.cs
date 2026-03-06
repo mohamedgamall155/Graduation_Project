@@ -60,11 +60,11 @@ namespace projectweb.Models
                 .HasForeignKey(r => r.PersonId)
                 .OnDelete(DeleteBehavior.Restrict);
 
-            modelBuilder.Entity<Role>()
-                .HasOne(r => r.Person)
-                .WithMany(p => p.Roles)
-                .HasForeignKey(r => r.PersonID)
-                .OnDelete(DeleteBehavior.Restrict);
+            //modelBuilder.Entity<Person>()
+            //    .HasOne(p => p.Role)
+            //    .WithMany(p => p.Roles)
+            //    .HasForeignKey(r => r.PersonID)
+            //    .OnDelete(DeleteBehavior.Restrict);
 
 
             modelBuilder.Entity<CommitteesAssignment>()

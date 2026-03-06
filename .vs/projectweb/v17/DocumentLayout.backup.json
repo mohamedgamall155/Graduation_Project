@@ -1,125 +1,152 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\final\\",
+  "WorkspaceRootPath": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\final\\Migrations\\20260123144557_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260123144557_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|e:\\final\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\final\\Migrations\\20260123143535_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260123143535_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|e:\\final\\models\\committeesassignments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:models\\committeesassignments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|e:\\final\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|e:\\final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|e:\\final\\models\\persons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\models\\persons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:models\\persons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|e:\\final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|e:\\final\\models\\exams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\models\\exams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:models\\exams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|e:\\final\\models\\blockcommitteescs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:models\\blockcommitteescs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|e:\\final\\models\\blocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:models\\blocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|e:\\final\\models\\committees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:models\\committees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|e:\\final\\models\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:models\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|e:\\final\\models\\reportpersons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:models\\reportpersons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|e:\\final\\models\\halls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\models\\halls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:models\\halls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|e:\\final\\wwwroot\\css\\todo-style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:wwwroot\\css\\todo-style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|e:\\final\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|e:\\final\\wwwroot\\js\\todo-actions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:wwwroot\\js\\todo-actions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\models\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:models\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|e:\\final\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\models\\reportpersons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:models\\reportpersons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|e:\\final\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\models\\blocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:models\\blocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|e:\\final\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\models\\blockcommitteescs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:models\\blockcommitteescs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|e:\\final\\views\\role\\addrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:views\\role\\addrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\models\\relatives.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:models\\relatives.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|e:\\final\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|e:\\final\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\models\\committeesassignments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:models\\committeesassignments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\models\\committees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:models\\committees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\migrations\\20260123144557_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:migrations\\20260123144557_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\final\\Migrations\\20260123143535_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\wwwroot\\css\\todo-style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:wwwroot\\css\\todo-style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\wwwroot\\js\\todo-actions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:wwwroot\\js\\todo-actions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\views\\role\\addrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:views\\role\\addrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|e:\\final\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|e:\\final\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|e:\\final\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|e:\\final\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|e:\\final\\viewmodel\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\viewmodel\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:viewmodel\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|e:\\final\\projectweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|c:\\users\\abdulrahman\\desktop\\graduation_project\\projectweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D90009F9-3875-45A1-BA0A-BA25F368364B}|projectweb.csproj|solutionrelative:projectweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -130,220 +157,287 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\final\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\final\\Program.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-20T15:36:21.404Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Persons.cs",
-              "DocumentMoniker": "E:\\final\\Models\\Persons.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\Persons.cs",
               "RelativeDocumentMoniker": "Models\\Persons.cs",
-              "ToolTip": "E:\\final\\Models\\Persons.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\Persons.cs",
               "RelativeToolTip": "Models\\Persons.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-23T14:10:29.34Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20260123144557_InitialCreate.cs",
-              "DocumentMoniker": "E:\\final\\Migrations\\20260123144557_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260123144557_InitialCreate.cs",
-              "ToolTip": "E:\\final\\Migrations\\20260123144557_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20260123144557_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "Relatives.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\Relatives.cs",
+              "RelativeDocumentMoniker": "Models\\Relatives.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\Relatives.cs",
+              "RelativeToolTip": "Models\\Relatives.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T14:45:57.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T21:14:07.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAFABAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T21:09:57.058Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "20260123143535_InitialCreate.cs",
-              "DocumentMoniker": "E:\\final\\Migrations\\20260123143535_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260123143535_InitialCreate.cs",
-              "ToolTip": "E:\\final\\Migrations\\20260123143535_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20260123143535_InitialCreate.cs",
-              "ViewState": "AgIAAM8AAAAAGAAAAAD+vwAAAAAAAAAAAAAAAA==",
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\Roles.cs",
+              "RelativeDocumentMoniker": "Models\\Roles.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\Roles.cs",
+              "RelativeToolTip": "Models\\Roles.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T14:35:35.533Z",
+              "WhenOpened": "2026-03-06T20:56:07.928Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\Subject.cs",
+              "RelativeToolTip": "Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T20:53:53.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\AuditLog.cs",
+              "RelativeDocumentMoniker": "Models\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\AuditLog.cs",
+              "RelativeToolTip": "Models\\AuditLog.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T20:44:56.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T20:39:16.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "Models\\Students.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\Students.cs",
+              "RelativeToolTip": "Models\\Students.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T20:37:36.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260123144557_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Migrations\\20260123144557_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260123144557_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Migrations\\20260123144557_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260123144557_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T14:45:57.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20260123143535_InitialCreate.cs",
+              "DocumentMoniker": "E:\\final\\Migrations\\20260123143535_InitialCreate.cs",
+              "ToolTip": "E:\\final\\Migrations\\20260123143535_InitialCreate.cs",
+              "ViewState": "AgIAAM8AAAAAGAAAAAD+vwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T14:35:35.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "DbContext.cs",
-              "DocumentMoniker": "E:\\final\\Models\\DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\DbContext.cs",
               "RelativeDocumentMoniker": "Models\\DbContext.cs",
-              "ToolTip": "E:\\final\\Models\\DbContext.cs",
-              "RelativeToolTip": "Models\\DbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAQAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\DbContext.cs*",
+              "RelativeToolTip": "Models\\DbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-23T14:28:33.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Exams.cs",
-              "DocumentMoniker": "E:\\final\\Models\\Exams.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\Exams.cs",
               "RelativeDocumentMoniker": "Models\\Exams.cs",
-              "ToolTip": "E:\\final\\Models\\Exams.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\Exams.cs",
               "RelativeToolTip": "Models\\Exams.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-23T14:19:08.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BlockCommitteescs.cs",
-              "DocumentMoniker": "E:\\final\\Models\\BlockCommitteescs.cs",
-              "RelativeDocumentMoniker": "Models\\BlockCommitteescs.cs",
-              "ToolTip": "E:\\final\\Models\\BlockCommitteescs.cs",
-              "RelativeToolTip": "Models\\BlockCommitteescs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T14:18:32.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "BlockCommitteescs.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\BlockCommitteescs.cs",
+              "RelativeDocumentMoniker": "Models\\BlockCommitteescs.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\BlockCommitteescs.cs",
+              "RelativeToolTip": "Models\\BlockCommitteescs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T14:18:32.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Blocks.cs",
-              "DocumentMoniker": "E:\\final\\Models\\Blocks.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\Blocks.cs",
               "RelativeDocumentMoniker": "Models\\Blocks.cs",
-              "ToolTip": "E:\\final\\Models\\Blocks.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\Blocks.cs",
               "RelativeToolTip": "Models\\Blocks.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T14:17:58.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-23T14:17:58.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 7,
               "Title": "Reports.cs",
-              "DocumentMoniker": "E:\\final\\Models\\Reports.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\Reports.cs",
               "RelativeDocumentMoniker": "Models\\Reports.cs",
-              "ToolTip": "E:\\final\\Models\\Reports.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\Reports.cs",
               "RelativeToolTip": "Models\\Reports.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T14:15:38.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CommitteesAssignments.cs",
-              "DocumentMoniker": "E:\\final\\Models\\CommitteesAssignments.cs",
-              "RelativeDocumentMoniker": "Models\\CommitteesAssignments.cs",
-              "ToolTip": "E:\\final\\Models\\CommitteesAssignments.cs",
-              "RelativeToolTip": "Models\\CommitteesAssignments.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAywBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T14:14:22.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Committees.cs",
-              "DocumentMoniker": "E:\\final\\Models\\Committees.cs",
-              "RelativeDocumentMoniker": "Models\\Committees.cs",
-              "ToolTip": "E:\\final\\Models\\Committees.cs",
-              "RelativeToolTip": "Models\\Committees.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T14:13:37.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\final\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "E:\\final\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-19T16:34:58.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "E:\\final\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "E:\\final\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T17:15:00.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ReportPersons.cs",
-              "DocumentMoniker": "E:\\final\\Models\\ReportPersons.cs",
-              "RelativeDocumentMoniker": "Models\\ReportPersons.cs",
-              "ToolTip": "E:\\final\\Models\\ReportPersons.cs",
-              "RelativeToolTip": "Models\\ReportPersons.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T14:16:14.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-23T14:15:38.042Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Halls.cs",
-              "DocumentMoniker": "E:\\final\\Models\\Halls.cs",
-              "RelativeDocumentMoniker": "Models\\Halls.cs",
-              "ToolTip": "E:\\final\\Models\\Halls.cs",
-              "RelativeToolTip": "Models\\Halls.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "CommitteesAssignments.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\CommitteesAssignments.cs",
+              "RelativeDocumentMoniker": "Models\\CommitteesAssignments.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\CommitteesAssignments.cs",
+              "RelativeToolTip": "Models\\CommitteesAssignments.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T14:16:59.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-23T14:14:22.762Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
+              "Title": "Committees.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\Committees.cs",
+              "RelativeDocumentMoniker": "Models\\Committees.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\Committees.cs",
+              "RelativeToolTip": "Models\\Committees.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T14:13:37.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-19T16:34:58.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T17:15:00.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReportPersons.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\ReportPersons.cs",
+              "RelativeDocumentMoniker": "Models\\ReportPersons.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\ReportPersons.cs",
+              "RelativeToolTip": "Models\\ReportPersons.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T14:16:14.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Halls.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\Halls.cs",
+              "RelativeDocumentMoniker": "Models\\Halls.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\Halls.cs",
+              "RelativeToolTip": "Models\\Halls.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T14:16:59.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "site.js",
-              "DocumentMoniker": "E:\\final\\wwwroot\\js\\site.js",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
-              "ToolTip": "E:\\final\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\wwwroot\\js\\site.js",
               "RelativeToolTip": "wwwroot\\js\\site.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -351,11 +445,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "site.css",
-              "DocumentMoniker": "E:\\final\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "E:\\final\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -363,11 +457,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\final\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\final\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAABAAAAAAAAAAAAAswCAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -375,11 +469,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\final\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\final\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -387,11 +481,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "todo-actions.js",
-              "DocumentMoniker": "E:\\final\\wwwroot\\js\\todo-actions.js",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\wwwroot\\js\\todo-actions.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\todo-actions.js",
-              "ToolTip": "E:\\final\\wwwroot\\js\\todo-actions.js",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\wwwroot\\js\\todo-actions.js",
               "RelativeToolTip": "wwwroot\\js\\todo-actions.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -399,24 +493,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "todo-style.css",
-              "DocumentMoniker": "E:\\final\\wwwroot\\css\\todo-style.css",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\wwwroot\\css\\todo-style.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\todo-style.css",
-              "ToolTip": "E:\\final\\wwwroot\\css\\todo-style.css",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\wwwroot\\css\\todo-style.css",
               "RelativeToolTip": "wwwroot\\css\\todo-style.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-12-21T08:52:11.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-21T08:52:11.632Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "E:\\final\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "E:\\final\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -424,11 +517,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 13,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "E:\\final\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "E:\\final\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -436,11 +529,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 31,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "E:\\final\\Views\\Account\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
-              "ToolTip": "E:\\final\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Views\\Account\\Register.cshtml",
               "RelativeToolTip": "Views\\Account\\Register.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -448,11 +541,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "AddRole.cshtml",
-              "DocumentMoniker": "E:\\final\\Views\\Role\\AddRole.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Views\\Role\\AddRole.cshtml",
               "RelativeDocumentMoniker": "Views\\Role\\AddRole.cshtml",
-              "ToolTip": "E:\\final\\Views\\Role\\AddRole.cshtml",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Views\\Role\\AddRole.cshtml",
               "RelativeToolTip": "Views\\Role\\AddRole.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -460,11 +553,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 36,
               "Title": "projectweb.csproj",
-              "DocumentMoniker": "E:\\final\\projectweb.csproj",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\projectweb.csproj",
               "RelativeDocumentMoniker": "projectweb.csproj",
-              "ToolTip": "E:\\final\\projectweb.csproj",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\projectweb.csproj",
               "RelativeToolTip": "projectweb.csproj",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -472,11 +565,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 35,
               "Title": "RoleViewModel.cs",
-              "DocumentMoniker": "E:\\final\\ViewModel\\RoleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\ViewModel\\RoleViewModel.cs",
               "RelativeDocumentMoniker": "ViewModel\\RoleViewModel.cs",
-              "ToolTip": "E:\\final\\ViewModel\\RoleViewModel.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\ViewModel\\RoleViewModel.cs",
               "RelativeToolTip": "ViewModel\\RoleViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -484,11 +577,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "E:\\final\\Views\\Account\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "E:\\final\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAcwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -496,11 +589,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 33,
               "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "E:\\final\\ViewModel\\LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\ViewModel\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "ViewModel\\LoginViewModel.cs",
-              "ToolTip": "E:\\final\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\ViewModel\\LoginViewModel.cs",
               "RelativeToolTip": "ViewModel\\LoginViewModel.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwAQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -508,11 +601,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 32,
               "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "E:\\final\\ViewModel\\RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\ViewModel\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "ViewModel\\RegisterViewModel.cs",
-              "ToolTip": "E:\\final\\ViewModel\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\ViewModel\\RegisterViewModel.cs",
               "RelativeToolTip": "ViewModel\\RegisterViewModel.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAowBUAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,16 +1,26 @@
-﻿namespace projectweb.Models
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace projectweb.Models
 {
     public class Exam
     {
+        [Key]
         public int ExamId { get; set; }
-        public string SubjectName { get; set; }
+        [Required]
         public DateTime ExamDate { get; set; }
         public DateTime StartTime { get; set; }
         public DateTime EndTime { get; set; }
-        public int YearLevel { get; set; }
+        public string TargetAcademicYear { get; set; }
 
         public int CommitteeID { get; set; }
-        public Committee Committee { get; set; }
+        [ForeignKey("CommitteeID")]
+        public virtual Committee Committee { get; set; }
+
+
+        public int SubjectID { get; set; }
+        [ForeignKey("SubjectID")]
+        public virtual Subject Subject { get; set; }
     }
 
 }

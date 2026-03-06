@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\final\\projectweb.csproj": {}
+    "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\projectweb.csproj": {}
   },
   "projects": {
-    "E:\\final\\projectweb.csproj": {
+    "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\projectweb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\final\\projectweb.csproj",
+        "projectUniqueName": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\projectweb.csproj",
         "projectName": "projectweb",
-        "projectPath": "E:\\final\\projectweb.csproj",
-        "packagesPath": "C:\\Users\\SAMA\\.nuget\\packages\\",
-        "outputPath": "E:\\final\\obj\\",
+        "projectPath": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\projectweb.csproj",
+        "packagesPath": "C:\\Users\\Abdulrahman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abdulrahman\\Desktop\\Graduation_Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "E:\\vs2022\\r\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SAMA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Abdulrahman\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -94,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
