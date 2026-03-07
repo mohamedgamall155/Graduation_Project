@@ -23,6 +23,11 @@ namespace projectweb.Models
         public DbSet<BlockCommittee> BlockCommittees { get; set; }
 
         public DbSet<Exam> Exams { get; set; }
+        public DbSet<Subject> Subjects { get; set; }
+
+        public DbSet<AuditLog> AuditLogs { get; set; }
+        public DbSet<Account> Accounts { get; set; }
+
 
         public DbSet<Report> Reports { get; set; }
         public DbSet<ReportPerson> ReportPersons { get; set; }
